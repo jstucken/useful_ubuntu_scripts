@@ -9,3 +9,7 @@ subdirectories when you open a new tab, without requiring the usual `pwd`, copy,
 click to open new tab, `cd` and paste.
 
 ![New Tab Demo](images/new_tab_demo.gif)
+
+This is an alternative to the official Microsoft guidance which can duplicate a tab
+at current location using `ctrl+shift+d`:
+https://learn.microsoft.com/en-us/windows/terminal/tutorials/new-tab-same-directory
